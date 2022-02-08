@@ -2,5 +2,5 @@
 # JAMES David
 # JEOUIT Nourelhouda
 # MORENA Loris
-# LEGRAND Maxime
+# LEROUX BESSON Maxime
 # https://github.com/Ognosh/projet_tas_de_sable.git
